@@ -81,7 +81,7 @@ section {
 
 
 
-/********** Medium devices only **********/
+/********** Mobile version **********/
 @media (max-width: 767px) {
   .col-mob {
     float: left;
